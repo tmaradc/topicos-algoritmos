@@ -1,1 +1,1 @@
-# topicos-algoritmos
+# Exercícios de Tópicos Especiais em Algoritmos
